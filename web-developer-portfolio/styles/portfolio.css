@@ -21,6 +21,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 200px;
 }
 
 nav-title {
@@ -44,3 +45,4 @@ nav a {
 }
 
 /*header related style  */
+header {}
